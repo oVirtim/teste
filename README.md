@@ -13,3 +13,5 @@
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH [feat/branch-sem-task-no-simpli](https://github.com/oVirtim/teste/tree/feat/branch-sem-task-no-simpli)
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-69/tarefa-teste-1
+
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-69/tarefa-teste-2
