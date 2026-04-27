@@ -46,5 +46,7 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-73/tarefa-iv
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH FORA DO SIMPLI feat/NRV-74/tarefa-v com task correspondente
 
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH FORA DO SIMPLI feat/branch-de-outro-user-fora-do-simpli
+
 
 
