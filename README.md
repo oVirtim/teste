@@ -52,3 +52,14 @@ commit órfão
 
 ## Main na frente da dev
 
+## Release III
+
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-78/tarefa-vi
+
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-79/tarefa-vii
+
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-80/tarefa-viii
+
+commit órfão
+
+
