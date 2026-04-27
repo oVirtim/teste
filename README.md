@@ -66,4 +66,5 @@ commit órfão
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-82/tarefa-ix
 
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH FORA DO SIMPLI feat/NRV-83/tarefa-x com task correspondente
 
