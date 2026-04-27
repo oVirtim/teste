@@ -48,5 +48,5 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH FORA DO SIMPLI feat/NRV-74/tarefa-v com t
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH FORA DO SIMPLI feat/branch-de-outro-user-fora-do-simpli
 
-
+commit órfão
 
