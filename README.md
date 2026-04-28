@@ -88,9 +88,11 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-164/tarefa-xv
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-167/tarefa-xx
 
-## Release VII
+## Release VIII
 
 feat/NRV-171/tarefa-xxii
 
 feat/NRV-203/tarefa-xxiv
+
+feat/NRV-205/tarefa-xxvi
 
