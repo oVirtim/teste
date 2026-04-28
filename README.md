@@ -98,3 +98,5 @@ feat/NRV-206/tarefa-xxvii
 
 untracked-branch
 
+outra-untracked
+
