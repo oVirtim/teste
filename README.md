@@ -1,4 +1,4 @@
-# Teste
+<img width="372" height="66" alt="image" src="https://github.com/user-attachments/assets/1af86142-faba-41f3-be95-5460f4322da1" /># Teste
 ## Release 1
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH [feat/branch-sem-task-no-simpli](https://github.com/oVirtim/teste/tree/feat/branch-sem-task-no-simpli)
@@ -103,4 +103,6 @@ outra-untracked
 commit órfao
 
 feat/NRV-210/tarefa-xxxi
+
+feat/NRV-211/tarefa-xxxii
 
