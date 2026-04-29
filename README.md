@@ -115,3 +115,5 @@ feat/NRV-215/tarefa-xxxvi
 feat/NRV-216/tarefa-xxxvii
 
 feat/NRV-217/tarefa-xxxviii
+
+feat/NRV-218/tarefa-xxxix
