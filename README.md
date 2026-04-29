@@ -88,3 +88,42 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-164/tarefa-xv
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-167/tarefa-xx
 
+## Release VIII
+
+feat/NRV-171/tarefa-xxii
+
+feat/NRV-203/tarefa-xxiv
+
+feat/NRV-206/tarefa-xxvii
+
+untracked-branch
+
+outra-untracked
+
+commit órfao
+
+feat/NRV-210/tarefa-xxxi
+
+feat/NRV-211/tarefa-xxxii
+
+feat/NRV-213/tarefa-xxxiv
+
+feat/NRV-214/tarefa-xxxv
+
+feat/NRV-215/tarefa-xxxvi
+
+feat/NRV-216/tarefa-xxxvii
+
+feat/NRV-217/tarefa-xxxviii
+
+feat/NRV-218/tarefa-xxxix
+
+untracked
+
+untracked 2
+
+orfao 1
+
+orfao 2
+
+orfao 3
