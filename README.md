@@ -153,3 +153,5 @@ branch sem vinculo - teste
 80
 
 82
+
+sem vinculo pr teste na abertura de release
