@@ -1,3 +1,4 @@
 # Teste 
 
-## Zerado
+## Release
+1.2
