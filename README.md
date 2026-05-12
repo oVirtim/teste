@@ -155,3 +155,5 @@ branch sem vinculo - teste
 82
 
 sem vinculo pr teste na abertura de release
+
+nome longo da PR
