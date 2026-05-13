@@ -1,5 +1,4 @@
 # Teste 
-a
 ## Release
 1.2
 
@@ -10,3 +9,5 @@ Tarefa teste 2
 ## Teste Final
 
 1
+2
+3
