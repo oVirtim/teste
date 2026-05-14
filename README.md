@@ -16,3 +16,4 @@ Tarefa teste 2
 dashboard
 feed
 sem vinculo
+componentes-gerais
