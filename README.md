@@ -18,3 +18,4 @@ feed
 sem vinculo
 componentes-gerais
 duplicado
+1
