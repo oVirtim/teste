@@ -19,3 +19,4 @@ sem vinculo
 componentes-gerais
 duplicado
 1
+2
