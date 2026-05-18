@@ -20,3 +20,4 @@ componentes-gerais
 duplicado
 1
 2
+3
