@@ -23,3 +23,4 @@ duplicado
 3
 4
 5
+ESSA AQUI É A BRANCH MAIN DO PROJETO
